@@ -62,8 +62,6 @@ h1 {
         margin-right: 20px;
         background-size: cover;
         background-position: center;
-        /* Replace 'url("business-image.jpg")' with the actual path to your image */
-        background-image: url("https://s3-media2.fl.yelpcdn.com/bphoto/l2oSnhyvJfWT6bufumBMzw/o.jpg");
     }
   
     .business-details {
@@ -96,7 +94,7 @@ h1 {
         }
     
         .business-rating {
-            color: #f39c12; /* Adjust the color as needed */
+            color: #f39c12;
         }
     }
 }
